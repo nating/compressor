@@ -1,2 +1,2 @@
 # compressor
-A program that compresses a file using Huffman Coding.
+A program to compress files using Huffman Coding.
